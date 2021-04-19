@@ -1,17 +1,23 @@
 # Pytorch-StarGAN-Digits
 Unofficial Pytorch implementation of StarGAN for generating Digit-5 datasets (MNIST, SVHN, SynDigits, MNIST-M, and USPS).
 
-### A typical top-level directory layout
+### Data layout
 
     .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
-
+    ├── MNIST 
+    |	└MNIST Images
+    |
+    |── MNIST-M
+    |	└MNIST-M Images
+    |
+    |── SVHN  
+    |	└SVHN Images
+    |
+    |── SynDigits
+    |	└SynDigits Images
+    |
+    └── USPS
+    	└USPS Images
 
 ## Generated Samples
 Input | SynDigits | MNIST | MNIST-M | SVHN | USPS 
