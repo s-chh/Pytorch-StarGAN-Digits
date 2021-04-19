@@ -2,7 +2,6 @@
 Unofficial Pytorch implementation of StarGAN for generating Digit-5 datasets (MNIST, SVHN, SynDigits, MNIST-M, and USPS).
 
 ### Data layout
-
     .
     ├── MNIST 
     |	└MNIST Images
