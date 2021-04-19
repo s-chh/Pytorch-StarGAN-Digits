@@ -4,19 +4,19 @@ Unofficial Pytorch implementation of StarGAN for generating Digit-5 datasets (MN
 ### Data layout
     .
     ├── MNIST 
-    |	└MNIST Images
+    |	└MNIST images
     |
     |── MNIST-M
-    |	└MNIST-M Images
+    |	└MNIST-M images
     |
     |── SVHN  
-    |	└SVHN Images
+    |	└SVHN images
     |
     |── SynDigits
-    |	└SynDigits Images
+    |	└SynDigits images
     |
     └── USPS
-    	└USPS Images
+    	└USPS images
 
 ## Generated Samples
 Input | SynDigits | MNIST | MNIST-M | SVHN | USPS 
