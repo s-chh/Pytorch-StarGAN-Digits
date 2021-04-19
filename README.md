@@ -6,4 +6,4 @@ Input | SynDigits | MNIST | MNISTM | SVHN | USPS
 --- | --- | --- | --- | --- | ---
 ![Input](/Results/Input.png) | ![SynDigits](/Results/SynDigits.png) | ![MNIST](/Results/MNIST.png) | ![MNISTM](/Results/MNISTM.png) | ![SVHN](/Results/SVHN.png) | ![USPS](/Results/USPS.png) 
 
-<img src="/Results/Digits.png" width="700"></img>
+<img src="/Results/Digits.png" width="500"></img>
