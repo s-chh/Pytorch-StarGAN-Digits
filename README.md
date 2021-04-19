@@ -4,7 +4,7 @@ Unofficial Pytorch implementation of StarGAN for generating Digit-5 datasets (MN
 ### Data layout
     .
     ├── MNIST 
-    |	└MNIST images
+    |  └MNIST images
     |
     |── MNIST-M
     |	└MNIST-M images
