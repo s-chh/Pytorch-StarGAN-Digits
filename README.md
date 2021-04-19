@@ -4,4 +4,4 @@ Unofficial Pytorch implementation of StarGAN for generating digits-5 datasets (M
 ## Generated Samples
 Input | SynDigits | MNIST | MNISTM | SVHN | USPS
 --- | --- | --- | --- | --- | ---
-![](/Results/Input.png) | ![]() | ![]() | ![]() | ![]() | ![]()
+![Input](/Results/Input.png) | ![SynDigits](/Results/SynDigits.png) | ![MNIST](/Results/MNIST.png) | ![MNISTM](/Results/MNISTM.png) | ![SVHN](/Results/SVHN.png) | ![USPS](/Results/USPS.png)
