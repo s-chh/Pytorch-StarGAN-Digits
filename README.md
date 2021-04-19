@@ -18,7 +18,7 @@ Input | SynDigits | MNIST | MNIST-M | SVHN | USPS
     |	└SVHN Images
     |
     |── SynDigits
-    |	└SynDigits Images
+    |	└SynDigits Images (Use only 50-100k images due to data imbalance)
     |
     └── USPS
     	└USPS Images
