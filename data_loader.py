@@ -15,6 +15,6 @@ def get_loader(ds_path='./data', batch_size=128, image_size=32):
     ds_loader = torch.utils.data.DataLoader(dataset=ds,
                                               batch_size=batch_size,
                                               shuffle=True,
-                                              num_workers=0,
+                                              num_workers=4,
                                               drop_last=True)
     return ds_loader

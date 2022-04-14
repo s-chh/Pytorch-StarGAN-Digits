@@ -5,7 +5,6 @@ from torch import optim
 import torch
 import os
 import torch.nn as nn
-from torchsummary import summary
 import pdb
 import random
 import numpy as np
@@ -34,9 +33,7 @@ gen = Generator(num_domains=NUM_DOMAINS, image_size=IMAGE_SIZE)
 dis = Discriminator(num_domains=NUM_DOMAINS, image_size=IMAGE_SIZE)
 
 print(gen)
-summary(gen, (3, IMAGE_SIZE, IMAGE_SIZE), device='cpu')
 print(dis)
-summary(dis, (3, IMAGE_SIZE, IMAGE_SIZE), device='cpu')
 
 # Load previous model   
 if LOAD_MODEL:
