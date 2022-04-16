@@ -2,7 +2,7 @@
 Unofficial Pytorch implementation of StarGAN for generating Digit-5 datasets (MNIST, SVHN, SynDigits, MNIST-M, and USPS).
 
 ## Generated Samples
-Input | SynDigits | MNIST | MNIST-M | SVHN | USPS 
+Input | Syn | MNIST | MNIST-M | SVHN | USPS 
 --- | --- | --- | --- | --- | ---
 ![Input](/Results/Input.png) | ![SynDigits](/Results/SynDigits.png) | ![MNIST](/Results/MNIST.png) | ![MNIST-M](/Results/MNISTM.png) | ![SVHN](/Results/SVHN.png) | ![USPS](/Results/USPS.png) 
 
